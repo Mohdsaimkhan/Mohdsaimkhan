@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Mohammad Saim Khan!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [Computer Science](https://www.amu.ac.in/department/computer-science) at the Aligarh Muslim University, India<br/>
+👩🏻‍🎓 Studied [Computer Science](https://amu.ac.in/department/computer-science/under-graduate) at the Aligarh Muslim University, India<br/>
 👩🏻‍🎓 Studying [Masters in Internet of things](https://www.ubfc.fr/en/formations/masters/master-iot/) at the Université de french Comté, France<br/>
 💭 Currently learning about Artificial Intelligence in IOT devices and beyond!<br/>
 
