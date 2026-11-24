@@ -27,8 +27,8 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/mohammad-saim-khan-21998a194/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:mohdsaimkhan239@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Mohdsaimkhan?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 <img src="https://komarev.com/ghpvc/?username=Mohdsaimkhan&label=Views&color=1e3a8a&style=for-the-badge" alt="views" />
 
@@ -117,16 +117,21 @@ I'm an AI engineer who likes making language models useful on hardware you actua
 <!-- ============ STATS ============ -->
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=1500&pause=100000&color=E6EDF3&width=500&height=50&lines=%2F%2F+GitHub+activity" alt="GitHub activity" />
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mohdsaimkhan&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=c9d1d9&border_color=1f2a3d&border_radius=14" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohdsaimkhan&layout=compact&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&border_color=1f2a3d&border_radius=14" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com/?user=Mohdsaimkhan&background=0d1117&border=1f2a3d&ring=38bdf8&fire=c084fc&currStreakNum=e6edf3&currStreakLabel=38bdf8&sideNums=e6edf3&sideLabels=8b9bb4&dates=8b9bb4&stroke=1f2a3d&border_radius=14" alt="Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohdsaimkhan&bg_color=0d1117&color=8b9bb4&line=38bdf8&point=ffffff&area=true&area_color=818cf8&hide_border=true&title_color=38bdf8" alt="Contribution graph" width="95%" />
-
-</div>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=Mohdsaimkhan&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&rank_icon=github&line_height=27&card_width=420&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=818cf8&border_color=1f2a3d&border_radius=12" alt="GitHub stats" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohdsaimkhan&layout=donut&langs_count=6&card_width=420&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=818cf8&border_color=1f2a3d&border_radius=12" alt="Top languages" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com/?user=Mohdsaimkhan&background=0d1117&border=1f2a3d&ring=38bdf8&fire=c084fc&currStreakNum=e6edf3&currStreakLabel=38bdf8&sideNums=e6edf3&sideLabels=8b9bb4&dates=8b9bb4&stroke=1f2a3d&border_radius=12&card_width=860" alt="Contribution streak" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
