@@ -14,7 +14,7 @@
 │                                                          │
 │   $ cat focus.txt                                        │
 │   > RAG + AI agents on local LLMs  [ Ollama · GraphQL ]  │
-│   > AI on IoT and edge devices     [ M.Sc. IoT · France ]│
+│   > AI on IoT and edge   [ Embedded Systems · IoT ]      │
 │                                                          │
 │   $ status                                               │
 │   > open to collaboration ●                              │
@@ -23,7 +23,7 @@
 ```
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=Building+RAG+and+AI+agents+on+local+LLMs;Master%27s+student+in+the+Internet+of+Things;Exploring+AI+on+edge+and+IoT+devices" alt="typing tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=Building+RAG+and+AI+agents+on+local+LLMs;AI+Engineer+with+FEMTO-ST+and+Smartesting;Exploring+AI+on+edge+and+IoT+devices" alt="typing tagline" />
 
 <br/>
 
@@ -39,7 +39,7 @@
 <!-- ============ ABOUT ============ -->
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=1500&pause=100000&color=E6EDF3&width=500&height=50&lines=%2F%2F+About+me" alt="About me" />
 
-I'm an AI engineer who likes making language models useful on hardware you actually own. I build retrieval and agent systems that run **locally**, and I'm studying how to bring AI down to **IoT and edge devices**.
+I'm an AI engineer who likes making language models useful on hardware you actually own. I build retrieval and agent systems that run **locally**, and I'm exploring how to bring AI down to **IoT and edge devices**. I currently work as an AI engineer in collaboration with **FEMTO-ST** and **Smartesting**.
 
 <table>
   <tr>
@@ -56,14 +56,14 @@ I'm an AI engineer who likes making language models useful on hardware you actua
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/STUDYING-c084fc?style=flat-square&labelColor=0f172a" alt="studying" /><br/>
-      <b>M.Sc. Internet of Things</b><br/>
-      <sub>Université de Franche-Comté, France</sub>
+      <img src="https://img.shields.io/badge/WORKING%20WITH-c084fc?style=flat-square&labelColor=0f172a" alt="working with" /><br/>
+      <b>FEMTO-ST × Smartesting</b><br/>
+      <sub>AI engineer, working in collaboration</sub>
     </td>
     <td width="50%" valign="top">
       <img src="https://img.shields.io/badge/BACKGROUND-38bdf8?style=flat-square&labelColor=0f172a" alt="background" /><br/>
-      <b>Computer Science</b><br/>
-      <sub>Aligarh Muslim University, India</sub>
+      <b>Education</b><br/>
+      <sub>Master's in Embedded Systems (IoT), Université Marie et Louis Pasteur, France<br/>Bachelor's in Computer Applications, Aligarh Muslim University, India</sub>
     </td>
   </tr>
 </table>
@@ -76,7 +76,7 @@ I'm an AI engineer who likes making language models useful on hardware you actua
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 Pythadrone / Saida</h3>
+      <h3> Pythadrone / Saida</h3>
       A GraphQL-based <b>RAG and AI agent platform</b> powered by local LLMs through <b>Ollama</b>. Query your own data with agents, no cloud required.
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=python,graphql&theme=dark" alt="python graphql" />
@@ -84,8 +84,8 @@ I'm an AI engineer who likes making language models useful on hardware you actua
       <!-- Add your repo: <br/><a href="https://github.com/Mohdsaimkhan/REPO_NAME">View repository →</a> -->
     </td>
     <td width="50%" valign="top">
-      <h3>📡 AI for IoT</h3>
-      Master's focus on running machine learning on constrained devices and wiring sensors, brokers and models together.
+      <h3> AI for IoT</h3>
+      Running machine learning on constrained devices and wiring sensors, brokers and models together.
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=tensorflow,rabbitmq,nodered&theme=dark" alt="tensorflow rabbitmq nodered" />
     </td>
